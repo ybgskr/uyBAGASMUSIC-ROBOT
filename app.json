@@ -1,8 +1,8 @@
 {
-    "name": "Grey-Music",
+    "name": "Bagas-Music",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/grey423/Grey-Music",
+    "repository": "https://github.com/ybgskr12/BAGASMUSIC-ROBOT.git",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -37,12 +37,12 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "greysupportnih"
+            "value": "allfucek"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "greyupdate"
+            "value": "loveisfuckedup"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
