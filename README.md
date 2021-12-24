@@ -1,4 +1,4 @@
-<h2 align="centre">Grey Music Player</h2>
+<h2 align="centre">Bagas Music Player</h2>
 
 <h3>Requirements 📝</h3>
 
@@ -84,7 +84,7 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 
 # DEPLOY
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/grey423/Grey-Music">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ybgskr12/BAGASMUSIC-ROBOT.git">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
